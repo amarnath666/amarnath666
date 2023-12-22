@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amarnathdhumal2001@gmail.com**
 
-- ⚡ Fun fact ☕ Embracing the code flow with a cup of tea in hand – my coding fuel of choice!.
+- ☕ Embracing the code flow with a cup of tea in hand – my coding fuel of choice!.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
