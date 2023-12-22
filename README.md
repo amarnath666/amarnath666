@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **amarnathdhumal2001@gmail.com**
 
-- ⚡ Fun fact **Tea enthusiast! Whether it's coding or exploring new repositories, you'll often find me sipping on a cup of my favorite blend.**
+- ⚡ Fun fact Tea enthusiast! Whether it's coding or exploring new repositories, you'll often find me sipping on a cup of my favorite blend.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
