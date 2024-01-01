@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack Developer</h3>
 <img align = "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
-- 🔭 I’m currently working on **Social Media App**
+- 🔭 I’m currently working on **Pizza Delivery App**
 
 - 🌱 I’m currently learning **Redux**
 
