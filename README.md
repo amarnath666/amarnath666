@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Social Media App**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Mern Stack**
 
