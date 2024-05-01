@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amarnath Dhumal</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Full Stack**
 
 - 💬 Ask me about **Full Stack**
 
