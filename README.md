@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amarnath Dhumal</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Full Stack**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **amarnathdhumal2001@gmail.com**
 
