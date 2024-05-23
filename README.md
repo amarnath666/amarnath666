@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **amarnathdhumal2001@gmail.com**
 
+- 👨‍💻 Check out my live portfolio **[here](https://amarnath666.github.io/portfolio)**
+
 - ⚡ Fun fact **Tea enthusiast! Whether it's coding or exploring new repositories, you'll often find me sipping on a cup of my favorite blend.**
 
 <h3 align="left">Connect with me:</h3>
