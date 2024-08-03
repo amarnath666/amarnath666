@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amarnath Dhumal</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development & DevOps**
 
 - 👨‍💻 Check out my live portfolio **[here](https://amarnath666.github.io/portfolio)**
 
