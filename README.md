@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development & DevOps**
 
-- 👨‍💻 All of my projects are available at [https://amarnath666.github.io/portfolio/](https://amarnath666.github.io/portfolio/)
+- 👨‍💻 Check out my portfolio[https://amarnath666.github.io/portfolio/](https://amarnath666.github.io/portfolio/)
 
 - 💬 Ask me about **Full Stack Development**
 
