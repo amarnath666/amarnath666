@@ -1,13 +1,11 @@
 <h1 align="left">Hi 👋, I'm Amarnath Dhumal</h1>
 <h3 align="left">Design Engineer</h3>
 
-- 🌱 I’m currently buildig Chamaac - UI Library**
+- 🌱 I’m currently buildig [Chamaac](https://www.chamaac.com/) - UI Library**
 
 - 👨‍💻 Check out my portfolio [here](https://www.amarn.me/)
 
 - 📫 How to reach me **amarnathdhumal2001@gmail.com**
-
-- ⚡ Fun fact **Tea enthusiast! Whether it's coding or exploring new repositories, you'll often find me sipping on a cup of my favorite blend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
