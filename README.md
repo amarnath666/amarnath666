@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Amarnath Dhumal</h1>
 <h3 align="left">Design Engineer</h3>
 
-- 🌱 I’m currently buildig Chamaaac - UI Library**
+- 🌱 I’m currently buildig Chamaac - UI Library**
 
 - 👨‍💻 Check out my portfolio [here](https://www.amarn.me/)
 
