@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Amarnath Dhumal</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="left">Hi 👋, I'm Amarnath Dhumal</h1>
+<h3 align="left">Design Engineer</h3>
 
-- 🌱 I’m currently learning **Full Stack Development & DevOps**
+- 🌱 I’m currently buildig Chamaaac - UI Library**
 
-- 👨‍💻 Check out my portfolio [here](https://amarnath666.github.io/portfolio/)
-
-- 💬 Ask me about **Full Stack Development**
+- 👨‍💻 Check out my portfolio [here](https://www.amarn.me/)
 
 - 📫 How to reach me **amarnathdhumal2001@gmail.com**
 
